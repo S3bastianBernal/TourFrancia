@@ -1,0 +1,1 @@
+Agradecimientos la Camper cristian luna por prestarme la plantilla y la base de datos(la mia estaba fallando :{ )
